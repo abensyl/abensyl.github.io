@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://abensyl.github.io</id>
+    <title>Abensyl&apos;s Blog</title>
+    <updated>2023-12-05T13:13:07.490Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://abensyl.github.io"/>
+    <link rel="self" href="https://abensyl.github.io/atom.xml"/>
+    <subtitle>Submit once, AC once, Submit twice, WA forever!</subtitle>
+    <logo>https://abensyl.github.io/images/avatar.png</logo>
+    <icon>https://abensyl.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Abensyl&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[浅谈贪心算法]]></title>
+        <id>https://abensyl.github.io/post/qian-tan-tan-xin-suan-fa/</id>
+        <link href="https://abensyl.github.io/post/qian-tan-tan-xin-suan-fa/">
+        </link>
+        <updated>2023-12-05T06:20:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Range Queries]]></title>
+        <id>https://abensyl.github.io/post/range-queries/</id>
+        <link href="https://abensyl.github.io/post/range-queries/">
+        </link>
+        <updated>2023-12-02T04:38:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧拉函数]]></title>
+        <id>https://abensyl.github.io/post/ou-la-han-shu/</id>
+        <link href="https://abensyl.github.io/post/ou-la-han-shu/">
+        </link>
+        <updated>2023-11-19T08:54:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOIP 2023 游记]]></title>
+        <id>https://abensyl.github.io/post/noip-2023-you-ji/</id>
+        <link href="https://abensyl.github.io/post/noip-2023-you-ji/">
+        </link>
+        <updated>2023-11-18T07:04:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近公共祖先（LCA）]]></title>
+        <id>https://abensyl.github.io/post/zui-jin-gong-gong-zu-xian-lca/</id>
+        <link href="https://abensyl.github.io/post/zui-jin-gong-gong-zu-xian-lca/">
+        </link>
+        <updated>2023-10-28T06:59:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次小生成树]]></title>
+        <id>https://abensyl.github.io/post/ci-xiao-sheng-cheng-shu/</id>
+        <link href="https://abensyl.github.io/post/ci-xiao-sheng-cheng-shu/">
+        </link>
+        <updated>2023-10-28T05:15:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[csp 2023 游记]]></title>
+        <id>https://abensyl.github.io/post/csp-2023-you-ji/</id>
+        <link href="https://abensyl.github.io/post/csp-2023-you-ji/">
+        </link>
+        <updated>2023-10-21T12:13:46.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈希]]></title>
+        <id>https://abensyl.github.io/post/ha-xi/</id>
+        <link href="https://abensyl.github.io/post/ha-xi/">
+        </link>
+        <updated>2023-10-14T05:16:20.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[约数与倍数]]></title>
+        <id>https://abensyl.github.io/post/yue-shu-yu-bei-shu/</id>
+        <link href="https://abensyl.github.io/post/yue-shu-yu-bei-shu/">
+        </link>
+        <updated>2023-10-13T14:21:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[运动会受伤康复日记]]></title>
+        <id>https://abensyl.github.io/post/yun-dong-hui-shou-shang-kang-fu-ri-ji/</id>
+        <link href="https://abensyl.github.io/post/yun-dong-hui-shou-shang-kang-fu-ri-ji/">
+        </link>
+        <updated>2023-09-28T23:54:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[树上差分 - 树上操作 题解]]></title>
+        <id>https://abensyl.github.io/post/shu-shang-chai-fen-shu-shang-cao-zuo-ti-jie/</id>
+        <link href="https://abensyl.github.io/post/shu-shang-chai-fen-shu-shang-cao-zuo-ti-jie/">
+        </link>
+        <updated>2023-09-23T08:27:02.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再见了，我最好的朋友 Stitch]]></title>
+        <id>https://abensyl.github.io/post/bye-stitch/</id>
+        <link href="https://abensyl.github.io/post/bye-stitch/">
+        </link>
+        <updated>2023-09-17T11:45:49.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生涯]]></title>
+        <id>https://abensyl.github.io/post/sheng-ya/</id>
+        <link href="https://abensyl.github.io/post/sheng-ya/">
+        </link>
+        <updated>2023-08-20T12:29:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三分查找]]></title>
+        <id>https://abensyl.github.io/post/san-fen-cha-zhao/</id>
+        <link href="https://abensyl.github.io/post/san-fen-cha-zhao/">
+        </link>
+        <updated>2023-08-19T00:23:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[偏序问题与 CDQ 分治]]></title>
+        <id>https://abensyl.github.io/post/pian-xu-wen-ti/</id>
+        <link href="https://abensyl.github.io/post/pian-xu-wen-ti/">
+        </link>
+        <updated>2023-08-13T16:17:50.000Z</updated>
+    </entry>
+</feed>
